@@ -3,9 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.17",
+    "@fortawesome/free-brands-svg-icons": "^5.8.1",
+    "@fortawesome/free-regular-svg-icons": "^5.8.1",
+    "@fortawesome/free-solid-svg-icons": "^5.8.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "i": "^0.3.6",
+    "npm": "^6.9.0",
     "react": "^16.8.6",
+    "react-canvas-js": "^1.0.1",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-open-weather": "^0.4.0",
+    "react-scripts": "3.0.0",
+    "react-strap": "0.0.1",
+    "reactstrap": "^8.0.0",
+    "recharts": "^1.5.0"
   },
   "scripts": {
     "start": "react-scripts start",
